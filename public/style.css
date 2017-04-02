@@ -1,0 +1,49 @@
+body {
+  font-family: 'Slabo 27px', serif;
+  margin: 25px;
+  background-color: #FFBEF7
+}
+
+h1 {
+  font-weight: bold;
+}
+
+#title {
+  background-color: black;
+  color: white;
+}
+
+p {
+  color: black;
+  font-weight:bold;
+}
+
+.menu {
+  list-style:none;
+  float:right;
+  font-family: "Georgia", serif;
+}
+
+.menu li {
+  display:inline;
+  border:2px;
+  border-style:solid;
+  border-color:black;
+  margin:5px;
+}
+
+.nav-wrapper {
+  background-color: #3AD4DC;
+}
+#jamesisgreat {
+  font-size: 20px; 
+}
+#intro {
+  font-size: 26px
+}
+#yoop {
+  font-size: 20px;
+}
+#creed {
+  font-size: 20px;
+}
